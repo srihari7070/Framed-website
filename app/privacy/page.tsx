@@ -154,12 +154,12 @@ export default function PrivacyPage() {
               via GitHub Issues:
             </p>
             <a
-              href="https://github.com/srihari7070/Framed/issues"
+              href="https://github.com/srihari7070/Framed-website/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-3 text-amber-400 hover:text-amber-300 transition-colors underline underline-offset-4"
             >
-              github.com/srihari7070/Framed/issues
+              github.com/srihari7070/Framed-website/issues
             </a>
           </section>
         </div>
